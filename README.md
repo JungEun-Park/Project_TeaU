@@ -36,7 +36,7 @@
 * 서버프로그램 언어 : Servlet, JSP, Ajax
 * 서버 : ApacheTomcat v8.5
 
-* 사용 API : INI API (KG이니시스 결제)
+* 사용 API : Daum우편번호 API, INI API(KG이니시스 결제)
 
 ---
 
